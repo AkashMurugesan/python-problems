@@ -47,4 +47,5 @@ while a>0:
         a=a%c
     else:
         print("Invalid Input - it not working above 999999999")
+        break
         
